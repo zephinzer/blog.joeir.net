@@ -1,7 +1,7 @@
+name: "le blog"
+description: "that blog we forget to maintain"
 encoding: UTF-8
 future: true
-github:
-  repository_name: joe
 kramdown:
    input: GFM
    hard_wrap: false
