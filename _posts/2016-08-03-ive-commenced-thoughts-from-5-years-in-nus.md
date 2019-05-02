@@ -4,6 +4,8 @@ title: "I've Commenced: Thoughts from 5 years in NUS"
 published: true
 ---
 
+> NOTE: This was a post migrated from my previous Ghost blog. If links don't work and you would really like to see it, it's probably posted somewhere in this blog.
+
 It's been a hell of a five years spent at the National University of Singapore and I'm glad to say I am finally a graduate. Frankly I'm more glad about getting out of the place rather than having a degree - it's been half a decade.
 
 Why five? I started out in the Life Sciences, enthusiastic and full of hopes in the promises of Science... Which was not to be. In my second year I did a fun-sized research project - they call it UROPS - and fortunately or unfortunately for me, I discovered I had a moral disdain for it, and I also discovered pragmatic reasons why pursuing the Sciences would suck; thankfully in the process, I also found my joy for creating stuff. It started with a problem I had of spending hours to find suitable PCR primers for my gene of interest, it was a bitch, so I developed a software to do it in minutes and the satisfaction of doing that led me to join the School of Computing in my third year.

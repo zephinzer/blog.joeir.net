@@ -4,6 +4,8 @@ title:  "Separate Ways (Worlds Apart)"
 published: true
 ---
 
+> NOTE: This was a post migrated from my previous Ghost blog. If links don't work and you would really like to see it, it's probably posted somewhere in this blog.
+
 All good things come to an end, and today I am announcing my withdrawal from my first corporate endeavour, Mooziq. While it was a tough decision to make seeing that it was my brainchild and first attempt at a business of sorts, it was also a relief in many ways.
 
 When Mooziq was first conceptualised, it was intended to be a platform that supports local original music wherever local may be and facilitate its discovery and consumption by respective communities. But as we found out in Singapore, that's not where the money was, and well, businesses tend to need to make money by its very definition. So we changed our focus to connecting lesser known/new cover bands and entertainers with bars, establishments and events that needed live music, and it was there that we found an arguably substantial market to serve; but it was also there that I realised I wasn't satisfied with what I was doing, and for awhile, I couldn't figure it out.

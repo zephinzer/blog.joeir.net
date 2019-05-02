@@ -4,6 +4,8 @@ title: "Common Social Media Colours"
 published: true
 ---
 
+> NOTE: This was a post migrated from my previous Ghost blog. If links don't work and you would really like to see it, it's probably posted somewhere in this blog.
+
 Recently I've been working on the social media integration functionality for the next version of [Mooziq](https://mooziq.sg) and I came across the need to have handy list of colours that I could use for styling buttons/text related to a certain technology company. 
 
 So I did some digging and here's a (hopefully) complete list of colours which kinda sorta defines their underlying brand. 

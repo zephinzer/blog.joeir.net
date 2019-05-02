@@ -4,6 +4,8 @@ title: "Notes on RESTing with AngularJS and ExpressJS"
 published: true
 ---
 
+> NOTE: This was a post migrated from my previous Ghost blog. If links don't work and you would really like to see it, it's probably posted somewhere in this blog.
+
 REST, or Representational State Transfer, is a stateless communications protocol for server-client communication. Again in English, REST is a way of designing your Application Programming Interface so that both the server and client can exchange messages without having to remember past requests. This post is a short note on how to send and receive messages from/to [AngularJS](https://angularjs.org/) from/to [ExpressJS](http://expressjs.com/) (Node).
 
 ---

@@ -4,6 +4,8 @@ title: "Creation & Restoration of MySQL dumps"
 published: true
 ---
 
+> NOTE: This was a post migrated from my previous Ghost blog. If links don't work and you would really like to see it, it's probably posted somewhere in this blog.
+
 This post addresses how to create and restore MySQL dumps using `mysqldump` and the `mysql` console. The reader should have MySQL installed on their local machine with default settings.
 
 ---
