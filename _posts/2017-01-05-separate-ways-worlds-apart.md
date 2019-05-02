@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Separate Ways (Worlds Apart)"
+published: true
 ---
 
 All good things come to an end, and today I am announcing my withdrawal from my first corporate endeavour, Mooziq. While it was a tough decision to make seeing that it was my brainchild and first attempt at a business of sorts, it was also a relief in many ways.

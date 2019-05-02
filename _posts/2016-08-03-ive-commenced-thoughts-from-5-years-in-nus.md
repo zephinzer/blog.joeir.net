@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "I've Commenced: Thoughts from 5 years in NUS"
+published: true
 ---
 
 It's been a hell of a five years spent at the National University of Singapore and I'm glad to say I am finally a graduate. Frankly I'm more glad about getting out of the place rather than having a degree - it's been half a decade.
