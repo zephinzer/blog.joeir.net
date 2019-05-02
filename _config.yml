@@ -1,3 +1,10 @@
+encoding: UTF-8
+future: true
+github:
+  repository_name: joe
+kramdown:
+   input: GFM
+   hard_wrap: false
 theme: minima
 plugins:
   - jekyll-mentions
@@ -5,3 +12,5 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-avatar
