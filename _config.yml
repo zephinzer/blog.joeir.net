@@ -3,15 +3,19 @@ title: "le blog"
 description: "that blog we forget to maintain"
 encoding: UTF-8
 future: true
+google_analytics: UA-75287781-5
 kramdown:
    input: GFM
    hard_wrap: false
-theme: minima
 plugins:
-  - jekyll-mentions
-  - jemoji
-  - jekyll-redirect-from
-  - jekyll-sitemap
-  - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-avatar
+  - jekyll-feed
+  - jekyll-mentions
+  - jekyll-redirect-from
+  - jekyll-relative-links
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+permalink: pretty
+theme: minima
+timezone: Asia/Singapore
