@@ -125,7 +125,7 @@ git subtree pull --squash --prefix=from-master remote-master reusable;
 cd ..;
 ```
 
-# Update a file in `repo-consumer`, pull updates into `repo-master`
+# Update a file in `repo-consumer`, merge updates into `repo-master`
 
 Assuming we'd like to work only with `repo-consumer`, we'd like these changes to be propagated to `repo-master`.
 
@@ -147,5 +147,5 @@ cd repo-master;
 git checkout reusable;
 git pull origin reusable;
 git checkout master;
-
+git pull -s subtree origin reusable
 ```
