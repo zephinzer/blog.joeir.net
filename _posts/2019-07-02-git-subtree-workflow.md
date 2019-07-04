@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Git Subtrees Workflow"
-published: false
+published: true
 ---
 
 # Create two repositories
@@ -11,7 +11,7 @@ Create two repositories, one named `master` and the other `consumer`. on a hoste
 Create the `master` repository locally and push it to it's clone URL.
 
 ```sh
-export MASTER_REPO_CLONE_URL="ssh://git@gitlab.gds-gov.tech:30022/zephinzer/stmaster1.git";
+export MASTER_REPO_CLONE_URL="ssh://git@git.domain.com/username/master.git";
 mkdir repo-master;
 cd repo-master;
 git init;
@@ -26,7 +26,7 @@ cd ..;
 Create the `consumer` repository locally and push it.
 
 ```sh
-export CONSUMER_REPO_CLONE_URL="ssh://git@gitlab.gds-gov.tech:30022/zephinzer/stconsumer1.git";
+export CONSUMER_REPO_CLONE_URL="ssh://git@git.domain.com/username/consumer.git";
 mkdir repo-consumer;
 cd repo-consumer;
 git init;
@@ -88,7 +88,7 @@ Before continuing, navigate out to the directory containing both directories `re
 Now that `repo-master` contains the re-usable content in a branch that's pushed to the remote source control, we can demonstrate pulling it into the `repo-consumer` repository. To do this, we will first need to add the remote of `repo-master` into `repo-consumer` and merge the work done in the `resuable` branch into a directory within `repo-consumer` named `from-master`. This looks like:
 
 ```sh
-export MASTER_REPO_CLONE_URL="ssh://git@gitlab.gds-gov.tech:30022/zephinzer/stmaster.git";
+export MASTER_REPO_CLONE_URL="ssh://git@git.domain.com/username/master.git";
 cd repo-consumer;
 git remote add remote-master ${MASTER_REPO_CLONE_URL};
 git fetch remote-master;
