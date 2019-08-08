@@ -1,4 +1,14 @@
-# WIP: https://blog.joeir.net
+# `(blog|wiki).joeir.net`
+
+This is a **WORK-IN-PROGRESS**.
+
+# Blog
+
+The blog will eventually be deployed at [https://blog.joeir.net](https://blog.joeir.net).
+
+# Knowledge Base
+
+The knowledge base will eventually be deployed at [https://wiki.joeir.net](https://wiki.joeir.net).
 
 # TODOS
 - [ ] Import https://blog.gds-gov.tech/smart-nation-industry-4-0-other-government-proverbs-1196b4afe14f
