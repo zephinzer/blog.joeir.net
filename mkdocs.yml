@@ -1,9 +1,0 @@
-site_name: knowledge.joeir.net
-site_url: http://knowledge.joeir.net
-repo_url: https://github.com/zephinzer/blog.joeir.net
-site_author: zephinzer
-site_description: my knowledge base
-nav:
-  - Home: ./index.md
-  - Code Logistics:
-      - Git 101: ./git-101.md
