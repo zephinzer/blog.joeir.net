@@ -4,9 +4,9 @@ title: "Failing Fast through Code: How We Do MVPs"
 published: true
 ---
 
-> NOTE: This was a post migrated from my previous Ghost blog. If links don't work and you would really like to see it, it's probably posted somewhere in this blog.
+> NOTE: This is a post migrated from my Medium blog at [https://medium.com/@joeir](https://medium.com/@joeir).
 
-![](assets/images/2017-01-18-failing-fast/0_Mz5SJLUPRB7sXQUJ.jpg)
+![cover image](assets/images/2017-01-18-failing-fast/0_Mz5SJLUPRB7sXQUJ.jpg)
 
 # Failing Fast through Code: How We Do MVPs
 
