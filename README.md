@@ -24,6 +24,6 @@ The blog will eventually be deployed at [https://blog.joeir.net](https://blog.jo
 - [ ] Import https://medium.com/@joeir/who-cares-if-one-more-light-goes-out-i-do-817dbc257603
 - [ ] Import https://blog.gds-gov.tech/that-ci-cd-thing-principles-implementation-tools-aa8e77f9a350
 - [ ] Import https://medium.com/@joeir/a-little-late-to-the-party-but-well-lates-better-than-never-86fa6e73e96a
-- [ ] Import https://blog.gds-gov.tech/failing-fast-bd545f1d82
-- [ ] Import https://blog.gds-gov.tech/ingredients-of-a-chat-bot-cc846baeda9f
-- [ ] Import https://blog.gds-gov.tech/perspectives-from-a-fresh-hire-at-government-digital-services-5d2670ef11b
+- [x] Import https://blog.gds-gov.tech/failing-fast-bd545f1d82
+- [x] Import https://blog.gds-gov.tech/ingredients-of-a-chat-bot-cc846baeda9f
+- [x] Import https://blog.gds-gov.tech/perspectives-from-a-fresh-hire-at-government-digital-services-5d2670ef11b
