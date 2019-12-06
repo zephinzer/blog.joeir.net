@@ -1,6 +1,7 @@
-name: "le blog"
-title: "le blog"
-description: "that blog we forget to maintain"
+name: "@joeir"
+title: "lé blog"
+description: "Lest I forget"
+host: github-blog.joeir.net
 encoding: UTF-8
 future: true
 google_analytics: UA-75287781-5
@@ -17,6 +18,5 @@ plugins:
   - jekyll-seo-tag
   - jemoji
 permalink: pretty
-remote_theme: wowthemesnet/mediumish-theme-jekyll
-# theme: minima
+remote_theme: zephinzer/mediumish-theme-jekyll
 timezone: Asia/Singapore
