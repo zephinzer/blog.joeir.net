@@ -17,5 +17,6 @@ plugins:
   - jekyll-seo-tag
   - jemoji
 permalink: pretty
-theme: minima
+remote_theme: wowthemesnet/mediumish-theme-jekyll
+# theme: minima
 timezone: Asia/Singapore
