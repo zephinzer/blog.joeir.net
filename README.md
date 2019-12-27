@@ -13,7 +13,7 @@ The blog will eventually be deployed at [https://blog.joeir.net](https://blog.jo
 - [ ] Import https://blog.gds-gov.tech/mycareersfuture-as-told-by-the-technical-team-3ae36802c973
 - [ ] Import https://codeburst.io/13-tips-tricks-for-writing-shell-scripts-with-awesome-ux-19a525ae05ae
 - [ ] Import https://blog.gds-gov.tech/look-ma-no-server-7e14f5b8cf44
-- [ ] Import https://codeburst.io/for-the-love-of-coding-keeping-it-real-through-passion-profession-ba42893a6adf
+- [x] Import https://codeburst.io/for-the-love-of-coding-keeping-it-real-through-passion-profession-ba42893a6adf
 - [ ] Import https://medium.com/@joeir/2017-a-yearly-retrospective-26c39ba4bff8
 - [ ] Import https://codeburst.io/process-env-what-it-is-and-why-when-how-to-use-it-effectively-505d0b2831e7
 - [ ] Import https://blog.gds-gov.tech/continously-delivering-full-stack-javascript-2-287ba7f1ab61
@@ -24,6 +24,3 @@ The blog will eventually be deployed at [https://blog.joeir.net](https://blog.jo
 - [ ] Import https://medium.com/@joeir/who-cares-if-one-more-light-goes-out-i-do-817dbc257603
 - [ ] Import https://blog.gds-gov.tech/that-ci-cd-thing-principles-implementation-tools-aa8e77f9a350
 - [ ] Import https://medium.com/@joeir/a-little-late-to-the-party-but-well-lates-better-than-never-86fa6e73e96a
-- [x] Import https://blog.gds-gov.tech/failing-fast-bd545f1d82
-- [x] Import https://blog.gds-gov.tech/ingredients-of-a-chat-bot-cc846baeda9f
-- [x] Import https://blog.gds-gov.tech/perspectives-from-a-fresh-hire-at-government-digital-services-5d2670ef11b
